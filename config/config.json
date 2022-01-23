@@ -7,12 +7,12 @@
     "ID": 4
   },
   "NFT_NAME": "Mnky New World Order",
-  "SYMBOL": "MNKy",
+  "SYMBOL":  "MNKy",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.08,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mnkynwo",
+  "MARKETPLACE_LINK":"https://testnets.opensea.io/collection/mnkynwo",
   "SHOW_BACKGROUND": true
 }
